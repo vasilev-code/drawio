@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.7">
+  <diagram name="Page-1" id="uS1KrPsfy5Jnh0gOIORm">
+    <mxGraphModel dx="1042" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZA0zohB_9NkDDup9gpez-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Present Perfect&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Past Simple&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="550" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Keywords&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="50" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Keywords&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="550" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-6" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="60" x="645" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-7" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="60" x="145" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-8" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="60" x="145" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-9" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="60" x="645" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span&gt;ever (когда-либо), never (никогда), just (только что), already &lt;br&gt;(уже), yet (ещё нет / уже), recently (недавно), lately (в последнее &lt;br&gt;время), so far (пока что), up to now (до сих пор).&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Часто с предлогом for (в течение какого времени) и since (с какого момента), если период длится до сих пор&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="167" width="345" x="15" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA0zohB_9NkDDup9gpez-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span&gt;yesterday, last week/month/year, in 2010, an hour ago&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="127" width="300" x="525" y="503" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
